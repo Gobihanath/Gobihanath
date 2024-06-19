@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gobihanath+Valasubramaniam!;" />
 </h1>
 
 <div align="center">
@@ -12,16 +12,16 @@
 ### <div align="center">Hi, I'm Gobihanath Balasubramaniam, a passionate student currently pursuing my degree in Information Systems.</div>  
   
 
-- 💻🔎 I'm enthusiastic about Machine Learning and Artificial Intelligence  
+ 💻🔎 I'm enthusiastic about Machine Learning and Artificial Intelligence  
   
 
-- 📱🌐 I’m currently learning and have a keen interest in web development and mobile app development.💥  
+ 📱🌐 I’m currently learning and have a keen interest in web development and mobile app development.💥  
   
 
-- 💣 I'm eager to contribute to innovative projects and continually expand my skills in the industry.  
+ 💣 I'm eager to contribute to innovative projects and continually expand my skills in the industry.  
   
 
-- Feel free to check out my repositories and connect with me!😀  
+ Feel free to check out my repositories and connect with me!😀  
   
 
 <br/>  
