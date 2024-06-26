@@ -27,7 +27,6 @@
 <br/>  
 
 ## My Skill Set
-<hr>
 
 
 
